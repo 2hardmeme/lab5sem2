@@ -1,0 +1,20 @@
+E:\University\ООП\2 семестр\5 laba\ромчик\OOP_Lab5-main\bin\Debug\Лаб5.exe.config
+E:\University\ООП\2 семестр\5 laba\ромчик\OOP_Lab5-main\bin\Debug\Лаб5.exe
+E:\University\ООП\2 семестр\5 laba\ромчик\OOP_Lab5-main\bin\Debug\Лаб5.pdb
+E:\University\ООП\2 семестр\5 laba\ромчик\OOP_Lab5-main\obj\Debug\123.csprojAssemblyReference.cache
+E:\University\ООП\2 семестр\5 laba\ромчик\OOP_Lab5-main\obj\Debug\Лаб5.Form1.resources
+E:\University\ООП\2 семестр\5 laba\ромчик\OOP_Lab5-main\obj\Debug\Лаб5.Properties.Resources.resources
+E:\University\ООП\2 семестр\5 laba\ромчик\OOP_Lab5-main\obj\Debug\123.csproj.GenerateResource.cache
+E:\University\ООП\2 семестр\5 laba\ромчик\OOP_Lab5-main\obj\Debug\123.csproj.CoreCompileInputs.cache
+E:\University\ООП\2 семестр\5 laba\ромчик\OOP_Lab5-main\obj\Debug\Лаб5.exe
+E:\University\ООП\2 семестр\5 laba\ромчик\OOP_Lab5-main\obj\Debug\Лаб5.pdb
+E:\University\ООП\2 семестр\5 laba\laba 5\bin\Debug\Лаб5.exe.config
+E:\University\ООП\2 семестр\5 laba\laba 5\bin\Debug\Лаб5.exe
+E:\University\ООП\2 семестр\5 laba\laba 5\bin\Debug\Лаб5.pdb
+E:\University\ООП\2 семестр\5 laba\laba 5\obj\Debug\123.csprojAssemblyReference.cache
+E:\University\ООП\2 семестр\5 laba\laba 5\obj\Debug\Лаб5.Properties.Resources.resources
+E:\University\ООП\2 семестр\5 laba\laba 5\obj\Debug\123.csproj.GenerateResource.cache
+E:\University\ООП\2 семестр\5 laba\laba 5\obj\Debug\123.csproj.CoreCompileInputs.cache
+E:\University\ООП\2 семестр\5 laba\laba 5\obj\Debug\Лаб5.exe
+E:\University\ООП\2 семестр\5 laba\laba 5\obj\Debug\Лаб5.pdb
+E:\University\ООП\2 семестр\5 laba\laba 5\obj\Debug\a123.Form1.resources
